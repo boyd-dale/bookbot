@@ -7,7 +7,7 @@ def get_num_words(book_contents):
         word_count += 1
 
     # Word count is just plain different
-    word_count = 75767
+    # word_count = 75767
     return word_count
 
 def get_char_count(book_contents):
